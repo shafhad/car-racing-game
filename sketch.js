@@ -18,7 +18,7 @@ function preload(){
   car2_img = loadImage("./images/car2.png");
   car3_img = loadImage("./images/car3.png");
   car4_img = loadImage("./images/car4.png");
- // ground = loadImage("./images/ground.png");
+  ground = loadImage("./images/ground.png");
   winner4=loadImage("./images/winner4-removebg-preview.png")
 }
 
